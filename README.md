@@ -1,3 +1,13 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a422b30f-04aa-4fa1-81be-4ea6ff563c68/deploy-status)](https://app.netlify.com/sites/brave-bassi-84733f/deploys)
+
+# BrewDallas.Com
+
+This site is based on Victor Hugo
+
+
+
+
+
 # Victor Hugo
 
 **A Hugo boilerplate for creating truly epic websites**
